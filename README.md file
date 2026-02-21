@@ -1,0 +1,12 @@
+# HTML Authentication POC
+
+This project contains 5 simple HTML pages demonstrating basic authentication flow using anchor tag redirections only.
+
+## Pages Included
+
+- login.html
+- register.html
+- forgot-password.html
+- reset-password.html
+- dashboard.html
+
